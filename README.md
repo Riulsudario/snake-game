@@ -11,10 +11,9 @@ Abaixo estão algumas imagens do jogo:
 ***
 
 ![](snake.gif)
+***
 ![](snake.PNG)
 ***
-![](snake2.PNG)
-***
-![](snake2.PNG)
+![](snake3.PNG)
 ***
 
