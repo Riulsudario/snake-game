@@ -8,7 +8,14 @@ O jogo continua mesmo se a cobra passar pela borda, e então ela aparece do lado
 ## Imagens
 
 Abaixo estão algumas imagens do jogo:
+***
+
+![](snake.gif)
+***
 ![](snake.PNG)
+***
 ![](snake2.PNG)
+***
 ![](snake2.PNG)
-![](snake.GIF)
+***
+
